@@ -1,6 +1,7 @@
 using System;
+using Kontur.Courses.Git;
 
-namespace Kontur.Courses.Git
+namespace Git
 {
 	class Program
 	{
